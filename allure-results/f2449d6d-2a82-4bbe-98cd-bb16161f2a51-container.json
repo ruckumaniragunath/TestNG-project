@@ -1,0 +1,1 @@
+{"uuid":"f2449d6d-2a82-4bbe-98cd-bb16161f2a51","name":"testing.TC_003","children":["f2322f86-5043-4b2b-a2e9-b3ccca9dcb62"],"befores":[{"name":"launchApplication","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697023700231,"stop":1697023706362}],"afters":[],"start":1697023700187,"stop":1697023717380}
